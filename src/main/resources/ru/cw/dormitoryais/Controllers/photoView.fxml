@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox alignment="CENTER" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="250.0" prefWidth="250.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ru.cw.dormitoryais.Controllers.PhotoViewController">
+   <children>
+      <ImageView fx:id="photoViewPicture" fitHeight="250.0" fitWidth="250.0" pickOnBounds="true" preserveRatio="true" />
+   </children>
+</VBox>
