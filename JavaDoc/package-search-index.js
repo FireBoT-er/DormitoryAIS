@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"ru.cw.dormitoryais","l":"ru.cw.dormitoryais"},{"m":"ru.cw.dormitoryais","l":"ru.cw.dormitoryais.Controllers"},{"m":"ru.cw.dormitoryais","l":"ru.cw.dormitoryais.Models"}];updateSearchResults();
